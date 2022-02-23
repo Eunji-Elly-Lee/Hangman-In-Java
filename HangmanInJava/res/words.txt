@@ -1,0 +1,14 @@
+school
+student
+teacher
+college
+music
+movie
+house
+phone
+friend
+apple
+orange
+mother
+father
+family

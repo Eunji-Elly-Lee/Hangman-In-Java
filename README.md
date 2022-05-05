@@ -11,4 +11,4 @@ This program is that lets a user play the hangman game using GUI.
 
 <br/>
 
-This project was created using Eclipse.
+This project was created using JavaFX with Eclipse.
